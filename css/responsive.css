@@ -22,4 +22,15 @@
     h2.recipe-name {
         font-size: 32px;
     }
+
+    .quick-notes ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes ul li {
+        width: calc(100%/3);
+        font-size: 16px;
+    }
+
 }
