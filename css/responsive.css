@@ -5,3 +5,7 @@
 }
 
 /* Soluzione qui */
+
+#topbar {
+    justify-content: start;
+}
