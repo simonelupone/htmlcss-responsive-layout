@@ -6,14 +6,20 @@
 
 /* Soluzione qui */
 
-#topbar {
-    justify-content: start;
-}
+@media screen and (min-width: 768px) {
+    #topbar {
+        justify-content: start;
+    }
 
-main {
-    padding: 40px;
-}
+    main {
+        padding: 40px;
+    }
 
-.recipe-origin {
-    display: inline-block;
+    .recipe-origin {
+        display: inline-block;
+    }
+
+    h2.recipe-name {
+        font-size: 32px;
+    }
 }
