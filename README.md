@@ -57,3 +57,7 @@
 ---
 
 ### 🚀 Buon lavoro e che il CSS sia con te! 🎨  
+
+## Anteprima
+
+[-> PREVIEW <-](https://simonelupone.github.io/htmlcss-responsive-layout/)
