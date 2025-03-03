@@ -6,6 +6,20 @@
 
 /* Soluzione qui */
 
+/* #region BONUS */
+@media screen and (min-width: 576px) {
+    .clearfix img {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .social-networks .btn {
+        padding-inline: 36px;
+    }
+}
+
+/* #endregion BONUS */
+
 @media screen and (min-width: 768px) {
     #topbar {
         justify-content: start;
