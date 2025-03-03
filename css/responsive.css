@@ -46,3 +46,9 @@
         margin-right: 10px;
     }
 }
+
+@media screen and (min-width: 992px) {
+    h2.recipe-name {
+        font-size: 38px;
+    }
+}
