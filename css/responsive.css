@@ -70,4 +70,8 @@
         font-size: 16px;
     }
 
+    .social-networks .label {
+        display: inline-block;
+    }
+
 }
