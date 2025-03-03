@@ -55,4 +55,19 @@
     .quick-notes ul {
         display: initial;
     }
+
+    .recipe-card {
+        display: flex;
+    }
+
+    .recipe-video {
+        max-width: 70%;
+        height: 100%;
+    }
+
+    .quick-notes ul li {
+        width: 100%;
+        font-size: 16px;
+    }
+
 }
