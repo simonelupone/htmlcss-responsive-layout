@@ -41,4 +41,8 @@
         display: block;
     }
 
+    .clearfix img {
+        float: left;
+        margin-right: 10px;
+    }
 }
